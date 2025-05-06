@@ -6,3 +6,26 @@
     width: 150px;
     height: 150px;
 }
+
+body {
+    background-color: #f0f8ff;  /* světle modrá */
+}
+
+a {
+    color: #0073e6;  /* modrá */
+}
+
+a:hover {
+    color: #005bb5;  /* tmavě modrá při hoveru */
+}
+
+h1, h2, h3 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
