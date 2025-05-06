@@ -2,7 +2,7 @@
 title: Martin Vot – Python Developer
 ---
 
-# ![Martin Vot](assets/profile.jpg){: .left}
+# ![Martin Vot](profile.jpg){: .left}
 
 *Python developer focused on web scraping and automation*
 
