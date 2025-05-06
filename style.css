@@ -1,31 +1,25 @@
-/* CSS pro obrázek vlevo */
-.left {
-    float: left;
-    margin-right: 20px;
-    border-radius: 50%;
-    width: 80px;
-    height: 80px;
+body {
+    background-color: #f0f8ff !important;  /* Světle modrá, přidáno !important */
+    font-family: Arial, sans-serif !important;
+    color: #333 !important;
 }
 
-body {
-    background-color: #f0f8ff;  /* světle modrá */
+h1 {
+    color: #2d3b6e !important;  /* Tmavě modrá, přidáno !important */
 }
 
 a {
-    color: #0073e6;  /* modrá */
+    color: #0073e6 !important;  /* Modrá */
 }
 
 a:hover {
-    color: #005bb5;  /* tmavě modrá při hoveru */
-}
-
-h1, h2, h3 {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    color: #005bb5 !important;  /* Tmavě modrá při hoveru */
 }
 
 section {
-    padding: 20px;
-    margin: 20px 0;
-    border: 2px solid #ddd;
-    border-radius: 8px;
+    background-color: white !important;
+    padding: 20px !important;
+    margin: 20px 0 !important;
+    border: 2px solid #ddd !important;
+    border-radius: 8px !important;
 }
