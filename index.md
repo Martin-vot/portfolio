@@ -23,6 +23,14 @@ Scraped **200,000+** US senior living facilities from a complex JavaScript site 
 
 ---
 
+### **Sports League Stats Scraper**
+Developed a modular Python scraper that automates the extraction of comprehensive player and team statistics from sports league websites. 
+The tool processes multiple league URLs, collects detailed performance data and rosters, and outputs well-structured Excel files for easy analysis and comparison.
+Designed with scalability and maintainability in mind, it handles complex data categories and organizes results into clean, accessible formats.
+🔗 [View on GitHub](https://github.com/Martin-vot/SportsLeague_Scraper)
+
+---
+
 ### **Data Web Crawler**
 Crawler for extracting and downloading legal documents from India’s national law portal [IndiaCode](https://www.indiacode.nic.in/).  
 Supports recursive crawling, metadata extraction, CSV export, and robust error logging.  
